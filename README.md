@@ -1,3 +1,6 @@
+# Code
+See [main.py](main.py)
+
 # Question 1
 #### How much more accurate is the model with the forgetting parameter than the model without?
 Standard BKT: 74.5%
